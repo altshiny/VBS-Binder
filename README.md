@@ -14,6 +14,5 @@ A new VBS binder generator for running your non-crypted builds without being det
 ![image](https://github.com/user-attachments/assets/a45edcf2-8596-4b11-928f-454eb6c9fef8)
 
 
-
 # 🛑Disclaimer: I don`t take the resposiblity for any illegal actions realized with the help of this tool, it was made for educational purposes only
 
